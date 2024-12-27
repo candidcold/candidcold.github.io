@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Involved with Politics Locally"
+title: "Getting involved with politics locally"
 date: 2024-12-27 04:00:00 -0000
 categories:
 ---
@@ -21,7 +21,7 @@ From there, I googled each one of these topics and added "NYC groups" to the end
 
 This is what my original list ended up looking like:
 
-![causes list](../_site/assets/causes-list.png "Causes list")
+![causes list](/assets/causes-list.png "Causes list")
 
 This was a good starting point! Reading my list back now, I see a few forks in the road that could have led me down paths that ultimately keep me operating within that “small power.” For example, many of the bullet points I wrote were about where I could find more information. This could have led to replicating my national politics dread if it wasn’t balanced out by potential actions I could take like going to a meetup. Another seductive fork in the road is my individualism of trying to brainstorm ideas about something cool to make, and seeing that as _the_ way to make an impact. I might have been able to make something cool, but I’d argue it’s unlikely that my ideas would have **single handedly** won me the things I claimed to want; maybe what I was really seeking was feeling like I _personally_ did something good. This can be a trap, similar to thinking the only way to help your sports team win is by scoring on your own. Many people do end up making really cool things for the right reasons with their talent, just as there are many players who can score a lot of points. Collective action is not saying that everyone must score, it’s that everyone should help the team win.
 
