@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Getting Involved with Politics Locally"
 date: 2024-12-27 04:00:00 -0000
 categories: POLITICS ACTIVISM ORGANIZING
+---
 
 A few friends asked me how I got to be more politically engaged in our city, so I figured I'd write a bit about my journey to point them to. Hopefully this is helpful.
 
