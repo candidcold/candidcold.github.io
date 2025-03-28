@@ -28,7 +28,7 @@ Some of my personal tips for how to not sink back into the dread of information 
 
 1. Sign up for newsletters if the source provides it. Some news sources provide recaps of the most important stories from a given time period. If something catches your eye you can then dive deeper. I love a weekly newsletter.
 1. If you sign up to these newsletters with a Gmail alias (putting a + after your email, like **johndoe+newsletters@gmail.com**) you can easily set up a few Gmail filters to organize your inbox better at a glance. [Here’s more information about how to set up filters](https://support.google.com/mail/answer/6579?hl=en).
-1. If you don’t mind using another website/app, an RSS reader really helps to bring everything together. I personally use https://www.inoreader.com/
+1. If you don’t mind using another website/app, an RSS reader really helps to bring everything together. I personally use [Inoreader](https://www.inoreader.com/)
    - In short, many websites produce RSS feeds that are updated whenever new content comes out. With an RSS reader you are essentially following websites, and whenever something new comes out it will bop to the top of your feed.
    - Fun fact: this is how most podcasts work; your podcast player is essentially an RSS “listener.” Podcasts, YouTube channels, Substack pages, and Wordpress sites all produce RSS feeds that you can follow!
 1. Combining all of the prior steps, you can turn newsletters into RSS feeds, and have them show up in your RSS reader using a service like **Kill the Newsletter!**. [Here is a more in depth guide on how to do this](https://bryanmanio.com/blog/email-newsletters-to-rss/). As someone who doesn’t love email, this is exactly what I’ve been looking for.
